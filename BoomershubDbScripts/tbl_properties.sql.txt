@@ -1,0 +1,1 @@
+create table tbl_properties( 	id INT NOT NULL AUTO_INCREMENT,	name VARCHAR(100) NOT NULL,   	address VARCHAR(100),   	city VARCHAR(40),	state VARCHAR(40),	zipcode INT,	county VARCHAR(40),   	phone VARCHAR(40),	type INT,	capacity INT,	PRIMARY KEY ( id ));

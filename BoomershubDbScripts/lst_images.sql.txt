@@ -1,0 +1,6 @@
+create table lst_images(
+	id INT NOT NULL AUTO_INCREMENT,
+	properties_id INT NOT NULL,   
+	link VARCHAR(200) NOT NULL,
+	PRIMARY KEY ( id )
+);
