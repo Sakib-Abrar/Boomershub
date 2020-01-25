@@ -1,7 +1,7 @@
 const env = {
   database: "boomershub_db",
   username: "root",
-  password: "welcome!",
+  password: "123456",
   host: "localhost",
   dialect: "mysql",
   pool: {
